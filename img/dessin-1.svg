@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="200mm"
+   viewBox="0 0 300 200"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="dessin-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="300mm"
+     inkscape:zoom="0.25422049"
+     inkscape:cx="141.60936"
+     inkscape:cy="226.18161"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:104.941px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.54679"
+       x="0.32826525"
+       y="80.62265"
+       id="text759"
+       transform="scale(0.71657271,1.3955318)"><tspan
+         sodipodi:role="line"
+         id="tspan757"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:104.941px;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, ';fill:#800080;stroke-width:0.54679"
+         x="0.32826525"
+         y="80.62265">YONNE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.264583"
+       x="137.64807"
+       y="139.36153"
+       id="text2119"><tspan
+         sodipodi:role="line"
+         id="tspan2117"
+         style="stroke-width:0.264583"
+         x="137.64807"
+         y="139.36153" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:FORTE;-inkscape-font-specification:FORTE;fill:#000000;stroke-width:0.264583"
+       x="161.67493"
+       y="187.8968"
+       id="text14951"><tspan
+         sodipodi:role="line"
+         id="tspan14949"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, ';fill:#000000;stroke-width:0.264583"
+         x="161.67493"
+         y="187.8968">TV.</tspan></text>
+  </g>
+</svg>
